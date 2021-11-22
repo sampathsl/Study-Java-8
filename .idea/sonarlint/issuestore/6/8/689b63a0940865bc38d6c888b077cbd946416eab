@@ -1,0 +1,10 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(öíâ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“Ç‰úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(–¿†âüÿÿÿÿ
+]
+java:S1192"GDefine a constant instead of duplicating this literal "Hello " 3 times.(öíâ
+o
+java:S1192"MDefine a constant instead of duplicating this literal "+94123456789" 3 times.(¯‹ó±ıÿÿÿÿ8‹Ë¿³Ô/
+L
+java:S5411"*Use the primitive boolean expression here.(“Ç‰úÿÿÿÿ8€Š«³Ô/

@@ -1,0 +1,15 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÕûÉÅúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ĞÆ€Æşÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(¼¸ùß
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(‹¨·Õùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»õ©½ûÿÿÿÿ8Õ•õ³Ô/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»õ©½ûÿÿÿÿ8ê®…´Ô/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ë¨ü8ñõœ´Ô/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(€úŞ8ß…¢´Ô/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£Ùœ°8à ¦´Ô/
+ˆ
+java:S1192"fDefine a constant instead of duplicating this literal "Is PhoneNumber Valid With Predicate: " 3 times.(»õ©½ûÿÿÿÿ8óõœ´Ô/
+r
+java:S1192"WDefine a constant instead of duplicating this literal "Is PhoneNumber Valid: " 4 times.(ÕûÉÅúÿÿÿÿ
